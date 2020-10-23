@@ -19,6 +19,7 @@ h1 {
 table {
 	font-family: arial, sans-serif;
 	border-collapse: collapse;
+	border: 2px solid black;
 	font-size: 25px;
 	text-align: center;
 	width: 90%;
