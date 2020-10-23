@@ -1,0 +1,75 @@
+body {
+	background: lightblue;
+}
+
+.container {
+	background: url('country.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 80%;
+	height: 500px;
+	margin: auto;
+	padding: 10px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	font-size: 25px;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+}
+
+th {
+	font-size: 20px;
+	font-weight: bold;
+	background: lightblue;
+	padding: 20px;
+	text-align: center;
+}
+td {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+a {
+	text-decoration: none;
+	background: black;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 20px;
+	transition: all 0.8s ease 0s;
+}
+
+a:hover{
+	background: blue;
+	color: #fff;
+}
+
+tr:hover{
+	background: pink;
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
